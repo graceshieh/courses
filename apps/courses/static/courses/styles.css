@@ -1,0 +1,33 @@
+* {
+	font-family: helvetica; 
+}
+
+#wrapper{
+	padding: 20px;
+}
+
+.inner_box{
+	display: inline-block;
+	vertical-align: top; 
+}
+
+	.name_txt{
+		display: block;
+		margin-top: 16px;
+		width: 250px;
+	}
+
+	.des_txt{
+		display: block;
+		margin-top: 16px;
+		width: 250px;
+		height: 100px;
+	}
+
+#courses_box{
+	border: 1px solid black;
+}
+
+	table{
+		text-align: left;
+	}
